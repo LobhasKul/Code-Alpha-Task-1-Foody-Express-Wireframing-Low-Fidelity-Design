@@ -27,4 +27,4 @@
 5. Checkout
 6. Order Confirmation
 
-**Goal:** The goal of this project is to create a strong foundation for a scalable and user-friendly food delivery application that can later be transformed into an interactive prototype and high-fidelity design.
+**Outcome:** The low-fidelity wireframes successfully establish the structure, navigation flow, and information architecture of the Foody Express application. The project provides a solid foundation for future prototyping, high-fidelity UI design, and application development.
