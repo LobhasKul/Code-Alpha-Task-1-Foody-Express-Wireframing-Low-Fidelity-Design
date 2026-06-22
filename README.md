@@ -15,7 +15,7 @@
 3. Menu browsing and item selection
 4. Shopping cart management
 5. Secure checkout process
-6. Order confirmation and tracking
+6. Order confirmation and tracking 
 
 **Design Process**: The wireframes were developed by mapping the complete user journey and identifying the essential screens required for a food delivery platform. Each screen was designed with a focus on usability, minimizing user effort while maintaining clear navigation and functionality.
 
